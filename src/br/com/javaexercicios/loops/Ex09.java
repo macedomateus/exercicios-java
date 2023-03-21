@@ -5,12 +5,12 @@ import java.util.Scanner;
 /* Faça um programa que peça 10 números inteiros, calcule e mostre
 a quantidade de números pares e a quantidade de números ímpares.
 * */
-public class Ex9 {
+public class Ex09 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
         int resultado = 0;
-        int numero = 0;
+        int numero;
         int pares = 0;
         int impares = 0;
 

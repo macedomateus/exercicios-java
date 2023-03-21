@@ -6,7 +6,7 @@ import java.util.Scanner;
 e mostre o primeiro número elevado ao segundo número. Não utilize função
 de potência da linguagem.
 * */
-public class Ex8 {
+public class Ex08 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

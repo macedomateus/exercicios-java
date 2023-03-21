@@ -7,7 +7,7 @@ Faça um programa que leia 5 números e informe
 
 import java.util.Scanner;
 
-public class Ex3 {
+public class Ex03 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

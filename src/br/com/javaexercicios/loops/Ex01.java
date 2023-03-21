@@ -7,7 +7,7 @@ Faça um programa que imprima na tela os valores
 * lado do outro.
 * */
 
-public class Ex1 {
+public class Ex01 {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 20; i++) {

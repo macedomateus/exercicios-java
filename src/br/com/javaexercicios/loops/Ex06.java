@@ -5,7 +5,7 @@ import java.util.Scanner;
 /* Altere o programa anterior para mostrar no final
 a soma dos números.
 * */
-public class Ex6 {
+public class Ex06 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

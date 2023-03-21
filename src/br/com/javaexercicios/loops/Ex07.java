@@ -6,7 +6,7 @@ import java.util.Scanner;
 de qualquer número inteiro entre 1 a 10. O usúario deve informar
 de qual número ele deseja ver a tabuada.
 * */
-public class Ex7 {
+public class Ex07 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

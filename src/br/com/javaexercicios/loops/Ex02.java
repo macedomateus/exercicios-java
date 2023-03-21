@@ -5,10 +5,9 @@ Faça um programa que leia 5 números e informe
 * o maior número.
 */
 
-import java.util.Comparator;
 import java.util.Scanner;
 
-public class Ex2 {
+public class Ex02 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
