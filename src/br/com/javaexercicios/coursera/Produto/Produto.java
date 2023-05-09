@@ -28,4 +28,8 @@ Os testes de cada classe devem ser colocados em classes separadas e devem estar 
 um diretório de código diferente das classes de produção.
 * */
 public class Produto {
+    private String nome;
+    private String codigo;
+    private double preco;
+
 }
